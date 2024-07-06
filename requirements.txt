@@ -1,0 +1,5 @@
+sqlalchemy
+pyserial
+mysql-connector-python-rf
+mysql-python
+observable

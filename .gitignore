@@ -1,0 +1,12 @@
+**/*.pyc
+/reference
+/reference2
+/env
+/config/mastercontrol.ini
+/logs
+*.egg-info
+/dist
+**/*/__pycache__
+*.log
+*.log.*
+/supervisor
